@@ -2,7 +2,7 @@
 
 ## 🔗 Live App
 🚀 Aplikasi bisa langsung diakses melalui:  
-👉 [https://finalproject-digitalskola.streamlit.app/](https://finalproject-digitalskola.streamlit.app/)
+👉 https://project-employee-income-classification.streamlit.app/
 
 ---
 
