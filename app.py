@@ -3,7 +3,7 @@ from ml_app import run_ml_app
 
 def main():
     st.set_page_config(
-        page_title="Final Project by Alya Devi Anjani",
+        page_title="Project by Aris Candra",
         page_icon="💼",
         layout="wide"
     )
@@ -19,7 +19,7 @@ def main():
         st.markdown(
             """
             <h1 style='text-align: center; color: #4B8BBE;'>
-                Welcome to Final Project Data Sapiens
+                Employee Income Classification
             </h1>
             """,
             unsafe_allow_html=True
