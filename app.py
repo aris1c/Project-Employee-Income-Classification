@@ -19,7 +19,7 @@ def main():
         st.markdown(
             """
             <h1 style='text-align: center; color: #4B8BBE;'>
-                Employee Income Classification
+                Prediction Employee Income Classification
             </h1>
             """,
             unsafe_allow_html=True
